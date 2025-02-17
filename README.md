@@ -1,3 +1,3 @@
 # PicoShell
 
-## A basic Raspberry Pi Pico shell
+A basic Raspberry Pi Pico shell
